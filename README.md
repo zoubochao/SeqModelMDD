@@ -18,7 +18,7 @@ This repository contains core code in following paper titled "Sequence Modeling 
 
 ## Data：
 
-  The extracted feature data can be downloaded from this link.
+  The extracted feature data can be downloaded from this link (will be uploaded soon).
 
 ## Requirements：
 
