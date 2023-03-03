@@ -1,6 +1,6 @@
 # SeqModelMDD
 
-This repository contains core code in following paper titled "Sequence Modeling of Passive Sensing Data for Treatment Response Prediction in Major Depressive Disorder."
+This repository contains core code in following paper titled "Sequence Modeling of Passive Sensing Data for Treatment Response Prediction in Major Depressive Disorder".
 
 ## Main Code for evaluation methods in Table 3：
 
